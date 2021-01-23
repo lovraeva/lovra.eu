@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Central European Urban Morphology
-author: Lovra-Bereczki
+author: Lovra Éva
 email: lovra.eva at eng.unideb.hu
 description: > # this means to ignore newlines until "baseurl:"
   Website of Lovra Éva PhD, adjunct professor, University of Debrecen, Department of Civil Engineering
