@@ -1,6 +1,6 @@
 ---
 layout: page
-title: interviews/Interjúk
+title: Interviews/Interjúk
 permalink: /interviews/
 ---
 

@@ -19,7 +19,7 @@ permalink: /books/
 
 [https://forumliber.rs/book/116/amikor-otthon-van-a-sehol](https://forumliber.rs/book/116/amikor-otthon-van-a-sehol)
 
-# Book reviewes/Recenziók
+# Book reviews/Recenziók
 
 ## Városok az Osztrák-Magyar Monarchiában. Városszövet- és várostipológia 1867-1918
 
